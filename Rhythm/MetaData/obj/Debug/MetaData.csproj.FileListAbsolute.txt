@@ -1,0 +1,6 @@
+E:\Intern\Rhythm\Rhythm\MetaData\bin\Debug\MetaData.dll
+E:\Intern\Rhythm\Rhythm\MetaData\bin\Debug\MetaData.pdb
+E:\Intern\Rhythm\Rhythm\MetaData\obj\Debug\MetaData.csprojAssemblyReference.cache
+E:\Intern\Rhythm\Rhythm\MetaData\obj\Debug\MetaData.csproj.CoreCompileInputs.cache
+E:\Intern\Rhythm\Rhythm\MetaData\obj\Debug\MetaData.dll
+E:\Intern\Rhythm\Rhythm\MetaData\obj\Debug\MetaData.pdb
